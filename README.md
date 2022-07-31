@@ -22,6 +22,6 @@ Currently the repo has 3 feature files in src/test/java source folder
 <p> This runner will execute all the feature files under the folder in which it resides. </p>
 
 </br>
-<p> Note: This is just a basic Karate framework without any tags, does not include karate config file. Also, not including the paraller runner file. <p/>
+<p> Note: This is just a basic Karate framework without any tags, does not include the karate config file. Also, not including the parallel runner file. <p/>
 <p> Not included any comments in the feature file since the feature name and scenario description is self explanatory </p>
 <p> These are not all the scenarios, just selected few different ones to automate. </p>
